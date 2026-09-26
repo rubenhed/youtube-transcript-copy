@@ -3,7 +3,7 @@ No separate UI, no popup. Just open a transcript and copy it with one click.
 
 
 Before:
-<img width="1221" height="502" alt="image" src="https://github.com/user-attachments/assets/42ece227-6ad8-423a-9e25-393d523cab01" />
+<img width="923" height="398" alt="image" src="https://github.com/user-attachments/assets/de0f61a5-d497-4826-9efe-78d9e447cc78" />
 
 After:
-<img width="1437" height="427" alt="image" src="https://github.com/user-attachments/assets/7eea110d-af0e-4962-bd4a-7f6678d03aa5" />
+<img width="922" height="393" alt="image" src="https://github.com/user-attachments/assets/20a47120-7e68-4a63-89de-376bd1a3be71" />
